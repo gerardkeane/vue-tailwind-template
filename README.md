@@ -1,5 +1,7 @@
 # Vue Tailwind Template
 
+![preview](preview.png)
+
 This is my personal template for a basic [Vue](https://vuejs.org/) + [Tailwind](https://tailwindcss.com/) + [Oh, Vue Icons!](https://oh-vue-icons.netlify.app/docs) application. It is, I hope, beginner friendly insofar as it contains basic examples of initial concepts, such as tailwind utility classes, `@layer components`, and how to import and use Oh Vue Icons.
 
 ## Documentation
